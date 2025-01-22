@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import AuthLayout from "./components/auth/layout.jsx";
 import AuthLogin from "./pages/auth/login";
 import AuthRegister from "./pages/auth/register";
