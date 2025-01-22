@@ -81,7 +81,7 @@ function App() {
         <Route
             path="/"
             element={
-                <Navigate to="/login" />
+                <Navigate to="/shop/home" />
             }
               >
         </Route>
